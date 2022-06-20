@@ -4,7 +4,7 @@ var alarmString = null;
 const alarmAudio = document.getElementById("alarm-audio");
 
 // set alarm sound
-alarmAudio.src = "http://soundbible.com/grab.php?id=2201&type=mp3";
+alarmAudio.src = "http://soundbible.com/grab.php?id=2186&type=mp3";
 
 // select DOM element with create-alarm id
 const createAlarm = document.querySelector(".create-alarm");
